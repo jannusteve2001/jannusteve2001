@@ -2,7 +2,7 @@
 - 👀 I’m interested in web-dev
 - 🌱 I’m currently learning web-dev
 - 💞️ I’m looking to collaborate on projects related to Typescript
-- 📫 How to reach me 
+- 📫 How to reach me . You can't reach me !
 
 <!---
 jannusteve2001/jannusteve2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
